@@ -1,0 +1,17 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2{
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  font-size: 1rem;
+  font-style: sans-serif;
+;
+}
+
+p {
+  line-height: 1.6;
+}
