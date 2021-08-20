@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0;
+}
+
+.row {
+  display: flex;
+}
+
+.column-full {
+  width: 100%;
+}
+
+.column-half {
+  width: 100%;
+}
+
+.column-third {
+  width: 100%;
+}
+
+.column-two-thirds {
+  width: 100%;
+}
+
+.column-fourth {
+  width: 100%;
+}
+
+.character {
+  width: 100%;
+}
