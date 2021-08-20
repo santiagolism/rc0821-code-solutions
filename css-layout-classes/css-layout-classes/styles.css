@@ -9,7 +9,7 @@ body {
 
 .container {
   max-width: 800px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 .row {
@@ -21,19 +21,19 @@ body {
 }
 
 .column-half {
-  width: 100%;
+  width: 50%;
 }
 
 .column-third {
-  width: 100%;
+  width: calc(100% / 3);
 }
 
 .column-two-thirds {
-  width: 100%;
+  width: calc(200% / 3);
 }
 
 .column-fourth {
-  width: 100%;
+  width: 25%;
 }
 
 .character {
